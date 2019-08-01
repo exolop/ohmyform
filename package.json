@@ -1,5 +1,7 @@
 {
-  "engines" : { "node" : "10.16.0" },
+  "engines": {
+    "node": "10.16.0"
+  },
   "name": "ohmyform",
   "description": "Opensource alternative to TypeForm",
   "version": "2.1.0",
@@ -37,6 +39,7 @@
     "envfile": "^2.1.1",
     "express": "^4.17.1",
     "express-session": "^1.16.2",
+    "forever": "^1.0.0",
     "glob": "^7.1.4",
     "grunt": "^1.0.4",
     "grunt-concurrent": "^3.0.0",
