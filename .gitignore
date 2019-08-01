@@ -35,7 +35,6 @@ public/dist/populate_template_cache.js
 uploads/
 # API keys file
 api_keys.js
-*.env
 
 # Sublime editor
 # ==============
