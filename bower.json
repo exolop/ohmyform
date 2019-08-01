@@ -50,5 +50,8 @@
     "BOWER-PACKAGE": {
       "main": "**/*.min.js"
     }
+  },
+  "resolutions": {
+    "jquery": "^3.2.1",
   }
 }
