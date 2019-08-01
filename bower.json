@@ -45,6 +45,11 @@
     "angular-permission": "^5.3.2",
     "angular-mocks": "^1.7.8"
   },
+  "resolutions": {
+    "jquery": "^2.2.4",
+    "jquery-ui": "^1.12.1",
+    "jspdf": "^1.2.60"
+  },
   "overrides": {
     "BOWER-PACKAGE": {
       "main": "**/*.min.js"
