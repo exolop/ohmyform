@@ -53,5 +53,5 @@
     "BOWER-PACKAGE": {
       "main": "**/*.min.js"
     }
-  },
+  }
 }
